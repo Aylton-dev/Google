@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content:center;
     align-items:center; /* Centraliza verticalmente */
-    height:575px; /* Altura do contêiner para que a centralização vertical funcione */
+    height:375px; /* Altura do contêiner para que a centralização vertical funcione */
 }
 header a:hover{
     text-decoration: underline;
